@@ -50,6 +50,7 @@ public class MainController extends Controller implements Initializable {
         mainPane.getChildren().add(display.getKey());
         DisplayController dp = (DisplayController) display.getValue();
         dp.setMainController(this);
+        dp.setup();
 
     }
 

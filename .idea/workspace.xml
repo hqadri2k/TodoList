@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82745ef9-f445-45ed-b219-877695626eca" name="Default" comment="" />
+    <list default="true" id="82745ef9-f445-45ed-b219-877695626eca" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/todo/controllers/AddTaskController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/todo/addtask.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/todo/haroon/qadri/fxml/addtask.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/haroon/qadri/fxml/addtask.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/haroon/qadri/java/controllers/AddTaskController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/todo/controllers/DisplayController.class" afterPath="$PROJECT_DIR$/out/production/todo/controllers/DisplayController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/todo/controllers/MainController.class" afterPath="$PROJECT_DIR$/out/production/todo/controllers/MainController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/todo/controllers/MiniTaskController.class" afterPath="$PROJECT_DIR$/out/production/todo/controllers/MiniTaskController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/todo/main/Config.class" afterPath="$PROJECT_DIR$/out/production/todo/main/Config.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/todo/display.fxml" afterPath="$PROJECT_DIR$/out/production/todo/display.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/todo/haroon/qadri/fxml/display.fxml" afterPath="$PROJECT_DIR$/out/production/todo/haroon/qadri/fxml/display.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/todo/haroon/qadri/fxml/main.fxml" afterPath="$PROJECT_DIR$/out/production/todo/haroon/qadri/fxml/main.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/todo/main.fxml" afterPath="$PROJECT_DIR$/out/production/todo/main.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/haroon/qadri/fxml/display.fxml" afterPath="$PROJECT_DIR$/src/haroon/qadri/fxml/display.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/haroon/qadri/fxml/main.fxml" afterPath="$PROJECT_DIR$/src/haroon/qadri/fxml/main.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/haroon/qadri/java/controllers/DisplayController.java" afterPath="$PROJECT_DIR$/src/haroon/qadri/java/controllers/DisplayController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/haroon/qadri/java/controllers/MainController.java" afterPath="$PROJECT_DIR$/src/haroon/qadri/java/controllers/MainController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/haroon/qadri/java/controllers/MiniTaskController.java" afterPath="$PROJECT_DIR$/src/haroon/qadri/java/controllers/MiniTaskController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/haroon/qadri/java/main/Config.java" afterPath="$PROJECT_DIR$/src/haroon/qadri/java/main/Config.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,41 +34,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/main/Config.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MiniTaskController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/controllers/MiniTaskController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="330">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#724#725#0" expanded="true" />
-                <element signature="e#782#783#0" expanded="true" />
-                <element signature="e#963#964#0" expanded="true" />
-                <element signature="e#998#999#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#996#997#0" expanded="true" />
+                <element signature="e#1031#1032#0" expanded="true" />
+                <element signature="e#1075#1076#0" expanded="true" />
+                <element signature="e#1113#1114#0" expanded="true" />
+                <element signature="e#1167#1168#0" expanded="true" />
+                <element signature="e#1213#1214#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DisplayController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/main/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addtask.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/haroon/qadri/fxml/addtask.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DisplayController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/controllers/DisplayController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="263">
+              <caret line="65" column="63" lean-forward="true" selection-start-line="65" selection-start-column="63" selection-end-line="65" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#587#588#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#1369#1370#0" expanded="true" />
+                <element signature="e#1420#1421#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddTaskController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/controllers/AddTaskController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,11 +110,11 @@
       <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/controllers/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="-292">
+              <caret line="37" column="56" lean-forward="true" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1641#1655#0" expanded="true" />
+                <element signature="e#1661#1675#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,8 +136,8 @@
       <file leaf-file-name="display.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/haroon/qadri/fxml/display.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+            <state relative-caret-position="219">
+              <caret line="26" column="89" lean-forward="true" selection-start-line="26" selection-start-column="89" selection-end-line="26" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -94,8 +149,8 @@
       <file leaf-file-name="main.fxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/haroon/qadri/fxml/main.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="131" lean-forward="false" selection-start-line="4" selection-start-column="131" selection-end-line="4" selection-end-column="131" />
+            <state relative-caret-position="90">
+              <caret line="6" column="74" lean-forward="true" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -113,6 +168,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -124,13 +182,15 @@
         <option value="$PROJECT_DIR$/src/haroon/qadri/java/main/Main.java" />
         <option value="$PROJECT_DIR$/src/haroon/qadri/java/controllers/Controller.java" />
         <option value="$PROJECT_DIR$/src/haroon/qadri/fxml/minitask.fxml" />
-        <option value="$PROJECT_DIR$/src/haroon/qadri/java/controllers/MainController.java" />
         <option value="$PROJECT_DIR$/src/haroon/qadri/fxml/main.fxml" />
-        <option value="$PROJECT_DIR$/src/haroon/qadri/java/main/Config.java" />
-        <option value="$PROJECT_DIR$/src/haroon/qadri/fxml/display.fxml" />
         <option value="$PROJECT_DIR$/src/haroon/qadri/java/main/Program.java" />
         <option value="$PROJECT_DIR$/src/haroon/qadri/java/controllers/MiniTaskController.java" />
+        <option value="$PROJECT_DIR$/src/haroon/qadri/java/main/Config.java" />
+        <option value="$PROJECT_DIR$/src/haroon/qadri/java/controllers/MainController.java" />
         <option value="$PROJECT_DIR$/src/haroon/qadri/java/controllers/DisplayController.java" />
+        <option value="$PROJECT_DIR$/src/haroon/qadri/fxml/display.fxml" />
+        <option value="$PROJECT_DIR$/src/haroon/qadri/fxml/addtask.fxml" />
+        <option value="$PROJECT_DIR$/src/haroon/qadri/java/controllers/AddTaskController.java" />
       </list>
     </option>
   </component>
@@ -144,6 +204,9 @@
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="824" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -302,12 +365,12 @@
       <workItem from="1531250703560" duration="964000" />
       <workItem from="1531502734281" duration="671000" />
       <workItem from="1531589336385" duration="421000" />
-      <workItem from="1531859772862" duration="1022000" />
+      <workItem from="1531859772862" duration="3813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6345000" />
+    <option name="totallyTimeSpent" value="9136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="6" />
@@ -321,18 +384,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32845744" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32845744" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14652778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19444445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39893618" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -406,8 +469,12 @@
           <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -418,10 +485,14 @@
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -473,7 +544,7 @@
           <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1641#1655#0" expanded="true" />
+            <element signature="e#1661#1675#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -502,8 +573,12 @@
           <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -514,10 +589,14 @@
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -536,7 +615,7 @@
           <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1641#1655#0" expanded="true" />
+            <element signature="e#1661#1675#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -598,8 +677,12 @@
           <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -610,10 +693,14 @@
           <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -665,7 +752,7 @@
           <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1641#1655#0" expanded="true" />
+            <element signature="e#1661#1675#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -694,7 +781,7 @@
           <caret line="55" column="10" lean-forward="false" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1641#1655#0" expanded="true" />
+            <element signature="e#1661#1675#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -705,8 +792,12 @@
           <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -717,10 +808,14 @@
           <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -759,25 +854,75 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/haroon/qadri/fxml/java.java" />
+    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/main/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="54" lean-forward="true" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/controllers/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/javafx.fxml/javafx/fxml/Initializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="46" column="49" lean-forward="false" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/haroon/qadri/fxml/main.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="131" lean-forward="false" selection-start-line="4" selection-start-column="131" selection-end-line="4" selection-end-column="131" />
+        <state relative-caret-position="90">
+          <caret line="6" column="74" lean-forward="true" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/fxml/display.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/main/Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        <state relative-caret-position="165">
+          <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/controllers/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-292">
+          <caret line="37" column="56" lean-forward="true" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1661#1675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/controllers/DisplayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="65" column="63" lean-forward="true" selection-start-line="65" selection-start-column="63" selection-end-line="65" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -792,65 +937,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/controllers/Controller.java">
+    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/fxml/display.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="219">
+          <caret line="26" column="89" lean-forward="true" selection-start-line="26" selection-start-column="89" selection-end-line="26" selection-end-column="89" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/main/Program.java">
+    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/fxml/addtask.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="31" column="54" lean-forward="true" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/controllers/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1641#1655#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/main/Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="322">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/controllers/MiniTaskController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="330">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/controllers/DisplayController.java">
+    <entry file="file://$PROJECT_DIR$/src/haroon/qadri/java/controllers/AddTaskController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="173">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -11,6 +11,8 @@ import java.util.ResourceBundle;
 
 public class MiniTaskController extends Controller implements Initializable {
 
+    private String description;
+
     private DisplayController displayController;
 
     @Override
@@ -47,5 +49,12 @@ public class MiniTaskController extends Controller implements Initializable {
         miniTaskNode = node;
     }
 
+    public void setTaskName(String name) {
+        taskName.setText(name);
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
     public void initialize() {}
 }

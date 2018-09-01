@@ -1,6 +1,7 @@
 package controllers;
 
 import javafx.fxml.FXML;
+import javafx.fxml.Initializable;
 import javafx.scene.Node;
 import javafx.scene.control.Button;
 import javafx.scene.layout.VBox;
@@ -8,6 +9,8 @@ import javafx.util.Pair;
 import main.Config;
 
 import java.io.IOException;
+import java.net.URL;
+import java.util.ResourceBundle;
 
 public class DisplayController extends Controller {
 
@@ -20,8 +23,20 @@ public class DisplayController extends Controller {
     private VBox tasksBox;
 
     @FXML
-    private void addNewTask() {
-       Pair<Node, Object> task = null;
+    private VBox newTaskInput;
+
+    @FXML
+    private void newTask() {
+        newTaskInput.setVisible(true);
+    }
+
+    public void hideNewTaskInfo() {
+        newTaskInput.setVisible(false);
+    }
+
+    public void addNewTask(String name, String description) {
+        hideNewTaskInfo();
+        Pair<Node, Object> task = null;
         try {
             task = mainController.loadNode(Config.MINI_TASK);
         } catch (IOException e) {
@@ -32,6 +47,8 @@ public class DisplayController extends Controller {
         MiniTaskController mtc = (MiniTaskController) task.getValue();
         mtc.setMainController(mainController);
         mtc.setMiniTaskNode(node);
+        mtc.setTaskName(name);
+        mtc.setDescription(description);
         tasks++;
         mtc.setDisplayController(this);
     }
@@ -41,5 +58,15 @@ public class DisplayController extends Controller {
         tasksBox.getChildren().remove(node);
     }
 
-
+    public void setup() {
+        Pair<Node, Object> nodes = null;
+        try {
+            nodes = mainController.loadNode(Config.ADD_TASK);
+            newTaskInput.getChildren().add(nodes.getKey());
+            AddTaskController atc = (AddTaskController) nodes.getValue();
+            atc.setDisplayController(this);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 }

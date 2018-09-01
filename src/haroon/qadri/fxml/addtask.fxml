@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.AddTaskController">
+   <children>
+      <HBox alignment="CENTER" prefHeight="50.0" prefWidth="300.0" spacing="15.0" VBox.vgrow="NEVER">
+         <children>
+            <TextField fx:id="name" prefHeight="30.0" prefWidth="230.0" promptText="Task Name" />
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="50.0" prefWidth="300.0" spacing="15.0">
+         <children>
+            <TextField fx:id="description" prefHeight="30.0" prefWidth="230.0" promptText="Task Description" />
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="50.0" prefWidth="300.0" spacing="15.0">
+         <children>
+            <Button fx:id="add" mnemonicParsing="false" onAction="#addTask" prefHeight="35.0" prefWidth="120.0" text="Submit" />
+            <Button fx:id="cancel" mnemonicParsing="false" onAction="#cancelTask" prefHeight="35.0" prefWidth="120.0" text="Cancel" />
+         </children>
+      </HBox>
+   </children>
+</VBox>
